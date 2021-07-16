@@ -1,0 +1,28 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5T84Z3V53D.com.jlr.landrover.incontrolremote.appstore",
+        "paths": [
+          "NOT /_/*",
+          "/*"
+        ]
+      },
+            {
+        "appID": "G5Q27SPC3M.com.landrover.incontrol.po",
+        "paths": [
+          "NOT /_/*",
+          "/*"
+        ]
+      },
+      {
+        "appID": "5T84Z3V53D.com.jlr.landrover.incontrolremote.debug",
+        "paths": [
+          "NOT /_/*",
+          "/*"
+        ]
+      }
+    ]
+  }
+}
